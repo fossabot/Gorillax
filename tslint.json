@@ -30,6 +30,6 @@
     ],
     "semicolon": [true, "always"],
     "eofline": true,
-    "interface-name": true
+    "indent": [true, "spaces", 2]
   }
 }
