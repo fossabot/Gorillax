@@ -9,7 +9,7 @@
     "build": "tsc",
     "dev": "nodemon",
     "test": "npm run lint && npm run test:jest",
-    "test:jest": "jest",
+    "test:jest": "jest -c ./jest.config.json",
     "lint": "tslint -p tsconfig.json",
     "lint:fix": "tslint --fix -p tsconfig.json",
     "codecov": "codecov -f coverage/*.json"
