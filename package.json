@@ -10,8 +10,8 @@
     "dev": "nodemon",
     "test": "npm run lint && npm run test:jest",
     "test:jest": "jest",
-    "lint": "tslint",
-    "lint:fix": "tslint --fix"
+    "lint": "tslint -p tsconfig.json",
+    "lint:fix": "tslint --fix -p tsconfig.json"
   },
   "repository": {
     "type": "git",
