@@ -1,0 +1,12 @@
+{
+  "bail": 1,
+  "clearMocks": true,
+  "preset": "ts-jest",
+  "testEnvironment": "node",
+  "testMatch": ["**/test/**/(*)+.test.ts"],
+
+  "collectCoverage": true,
+  "coverageReporters": ["json", "text"],
+  "collectCoverageFrom": ["src/**"],
+  "coverageDirectory": "coverage"
+}
