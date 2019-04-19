@@ -5,5 +5,8 @@ package-lock.json
 # Coverage Path
 coverage
 
+# Dist Path
+dist
+
 # Environment Variables File
 .env
