@@ -1,6 +1,6 @@
 {
   "name": "gorillax",
-  "description": "A free, high quality, open-source and multipurpose Discord Bot",
+  "description": "A free, high quality, open-source and multipurpose Discord Bot. Built with TypeScript",
   "author": "Fernando Nascimento <fernando457829@gmail.com>",
   "version": "1.0.0",
   "license": "MIT",
