@@ -3,7 +3,7 @@
   "clearMocks": true,
   "preset": "ts-jest",
   "testEnvironment": "node",
-  "testRegex": ".+\/test\/.+\/.+\\.test\\.ts",
+  "testMatch": ["**/test/**/*.test.ts"],
 
   "collectCoverage": true,
   "coverageReporters": ["json", "text"],
