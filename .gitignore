@@ -1,12 +1,9 @@
+coverage
+dist
+
 # Packages
 node_modules
 package-lock.json
-
-# Coverage Path
-coverage
-
-# Dist Path
-dist
 
 # Environment Variables File
 .env
