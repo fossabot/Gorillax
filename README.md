@@ -1,4 +1,4 @@
-# <img src="src/assets/banner.jpg"/>
+# <img src="assets/banner.jpg"/>
 <div align="center">
   <a title="Building Status" href="https://circleci.com/gh/GorillaxBot/Gorillax" target="_blank"><img src="https://img.shields.io/circleci/project/github/GorillaxBot/Gorillax.svg?style=flat-square" alt="Building Status"/></a>
   <a title="Code Coverage Status" href="https://codecov.io/gh/GorillaxBot/Gorillax" target="_blank"><img src="https://img.shields.io/codecov/c/gh/GorillaxBot/Gorillax.svg?style=flat-square" alt="Code Coverage Status"/></a>
