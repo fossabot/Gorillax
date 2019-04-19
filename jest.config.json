@@ -3,7 +3,7 @@
   "clearMocks": true,
   "preset": "ts-jest",
   "testEnvironment": "node",
-  "testMatch": ["**/test/**/*.test.ts"],
+  "testMatch": ["**/tests/**/*.test.ts"],
 
   "collectCoverage": true,
   "coverageReporters": ["json", "text"],
