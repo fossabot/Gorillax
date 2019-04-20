@@ -11,7 +11,7 @@
     "test": "npm run lint && npm run test:jest",
     "test:jest": "jest -c ./jest.config.json",
     "lint": "tslint -p tsconfig.json",
-    "lint:fix": "tslint --fix -p tsconfig.json",
+    "lint:fix": "npm run lint --fix ",
     "codecov": "codecov -f coverage/*.json"
   },
   "repository": {
